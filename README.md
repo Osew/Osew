@@ -1,5 +1,5 @@
 const title = 'Frontend Dev';
-console.log(`I am a ${title}`)
+console.log(`I am a ${title}`) 
 
 <!---
 Osew/Osew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
