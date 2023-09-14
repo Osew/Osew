@@ -1,4 +1,4 @@
-const title = 'Frontend Dev'
+const title = 'Frontend Dev';
 console.log(`I am a ${title}`)
 
 <!---
